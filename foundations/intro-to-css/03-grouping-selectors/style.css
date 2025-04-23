@@ -1,0 +1,12 @@
+.basic,
+.vibrant { font-family: Helvetica, "Times new Roman", "sans-serif";
+font-size: 28px;
+}
+
+.basic {
+    background-color: black;color: white;
+}
+
+.vibrant {
+    background-color: yellow;
+}
